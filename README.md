@@ -1,4 +1,4 @@
-# POSN COMPUTER SCIENCE - camp 1 Solutions (October 2023)
+# POSN COMPUTER SCIENCE - Camp 1 Solutions (October 2023)
 
 These solutions were written during the **POSN Computer Science Camp 1**, held in **October 2023** and hosted by **KMUTT (King Mongkut's University of Technology Thonburi)**. The onsite camp took place at **Streesrisuriyothai School**.
 
