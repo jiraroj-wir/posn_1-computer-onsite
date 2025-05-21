@@ -13,7 +13,7 @@ They taught us well, took great care of us, and made sure we were well-fed—buf
 
 This project is released under [The Unlicense](https://unlicense.org/), placing the contents in the public domain. You're free to use, modify, and share the code however you like.
 
-## ⚠️ Academic Integrity Disclaimer
+## Academic Integrity Disclaimer
 
 This repository is shared for **learning and reference purposes only**.
 
