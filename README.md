@@ -17,9 +17,9 @@ This project is released under [The Unlicense](https://unlicense.org/), placing 
 
 This repository is shared for **learning and reference purposes only**.
 
-If you are a student currently enrolled in ICCS101 (or any similar course), **do not submit this code as your own**. Doing so may violate your institution’s academic policies.
+If you're currently enrolled in POSN CS Camp 1, **do not submit this code as your own**.  
+See the [LICENSE](LICENSE.txt) for full academic integrity terms.
 
-I take no responsibility for any misuse of this code.
 
 ## Contact
 
