@@ -18,7 +18,7 @@ This project is released under [The Unlicense](https://unlicense.org/), placing 
 This repository is shared for **learning and reference purposes only**.
 
 If you're currently enrolled in POSN CS Camp 1, **do not submit this code as your own**.  
-See the [LICENSE](LICENSE.txt) for full academic integrity terms.
+See the [LICENSE](LICENSE) for full academic integrity terms.
 
 
 ## Contact
